@@ -1,1 +1,1 @@
-# habbit-app
+# Приложение заметок на JavaScript
